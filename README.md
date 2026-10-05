@@ -1,4 +1,6 @@
 # Tianjin Metro
+> [!IMPORTANT]
+> This port was made by AI, so its stability might not be great.  
 
 ![](https://cdn.modrinth.com/data/P0Pb6K4u/images/d4299fafd75434cf4af73be490c939fea8db5eca.png)
 
